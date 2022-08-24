@@ -1,28 +1,28 @@
 {
-    "ownerNumber": "6283834558105@s.whatsapp.net", 
-    "ownerName": "Lexxy Official", 
-    "botName": "NEOBOT-STORE",
-    "footer": "© BOTMD | 2022", 
+    "ownerNumber": "6282275576880@s.whatsapp.net", 
+    "ownerName": "IRJA~", 
+    "botName": "IRJA BOT",
+    "footer": "© IRJA", 
     "sessionName": "session", 
     "pathimg": "./media/logo.jpg", 
     "pathqris": "./media/qris.jpg",
-    "group": "https://chat.whatsapp.com/DHf4mb8QnmC5zynElmG2tG",
-    "yootube": "https://youtube.com/channel/UCLd-bhT8Dqq9PjGc6bWUVyg",
+    "group": "https://chat.whatsapp.com/Fd92L258maQ6lWjIua6Djq",
+    "yootube": "https://instagram.com/irja_official",
      
-    "QrisAllPay": "https://telegra.ph/file/d015def9028eb1c0a156b.jpg",
-    "textBarisDonate1": "Dana : 0857-8900-4732",
-    "textBarisDonate2": "Ovo : 0857-8900-4732",
-    "textBarisDonate3": "Gopay : 08xxxxxxxxx",
-    "textBarisDonate4": "Pulsa : 0857-8900-4732",
+    "QrisAllPay": "https://telegra.ph/file/e0be2796a2105c2bd33d9.jpg",
+    "textBarisDonate1": "Dana : 0822-7557-6880",
+    "textBarisDonate2": "Ovo : -",
+    "textBarisDonate3": "Gopay : -",
+    "textBarisDonate4": "Pulsa : 0823-7685-7278",
   
-    "ButtonTextMenu1": "Youtube",
-    "ButtonTextMenu2": "Rest Api",
+    "ButtonTextMenu1": "Instagram",
+    "ButtonTextMenu2": "Group",
     "quickReplyButton3": "Rules",
     "quickReplyButton4": "Donasi",
     "quickReplyButton5": "Dashboard",
   
-    "ButtonMenuLink1": "https://youtube.com/channel/UCLd-bhT8Dqq9PjGc6bWUVyg",
-    "ButtonMenuLink2": "https://api-lexxy-official.herokuapp.com",
+    "ButtonMenuLink1": "https://instagram.com/irja_official",
+    "ButtonMenuLink2": "https://chat.whatsapp.com/Fd92L258maQ6lWjIua6Djq",
     "displayTextMenu3": "rules",
     "displayTextMenu4": "donasi",
     "displayTextMenu5": "dashboard",
@@ -30,7 +30,7 @@
     "limitGame": 35,
     "gamewaktu": 90,
     "sticker": {
-        "packname": "© Store",
-        "author": "Lexxy Official"
+        "packname": "© IRJA",
+        "author": "IG : irja_official"
     }
 }
